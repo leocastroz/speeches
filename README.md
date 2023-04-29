@@ -5,4 +5,4 @@ Local: Coffe Meet, Ibis Hotel, Parauapebas-PA Brasil
 
 Título Repositório: coffeM 2023
 
-![Eu - Leonardo](https://drive.google.com/file/d/1OOVhbqR_asWZqlWygoRO0U0MUiSeIV9H/view?usp=share_link)
+<img src="https://user-images.githubusercontent.com/72839343/235313186-be1981ad-a470-42f1-8c4c-385c3c7ce514.jpeg" width="320" height="320">
