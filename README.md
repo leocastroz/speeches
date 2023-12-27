@@ -6,6 +6,16 @@
 📍 Coffe Meet, Ibis Hotel, Parauapebas-PA Brasil 
 
 <img src="https://github.com/leocastroz/popup-teste/assets/72839343/f215a47f-bd33-456e-b917-383cba135acf" width="320" height="320">
+
+<hr>
+
+📚 Creating REST-API with Supabase
+<br>
+📍 Coffe Meet, Ibis Hotel, Parauapebas-PA Brasil 
+
+<img src="https://github.com/leocastroz/popup-teste/assets/72839343/535dac6b-9d96-46b2-85d6-00d5b3799cfb" width="320" height="320">
+<hr>
+
 <hr>
 
 📚 Deploy web code using Vercel
@@ -19,8 +29,8 @@
 <br>
 📍 Complexo Turístico, Parauapebas-PA Brasil 
 
+<img src="https://github.com/leocastroz/popup-teste/assets/72839343/2b42f834-f1c7-4d95-8c41-9a72fb06e39e" width="320" height="320">
 
-<a href="https://github.com/leocastroz/popup-teste/assets/72839343/8d3d51c1-fddb-4c78-83a2-3058e6104952"></a>
 
 <hr>
 
