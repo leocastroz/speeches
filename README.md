@@ -1,5 +1,12 @@
 ## Completed lectures
 
+📚 Developing a Frontend Project
+<br>
+📍 Universidade Estadual, Parauapebas-PA Brasil 
+
+<img src="https://github.com/leocastroz/portfolio-master/assets/72839343/dda0880b-8a74-467b-99fa-0ad4b81f09c9" width="320" height="320">
+
+<hr>
 
 📚 Quasar Framework
 <br>
